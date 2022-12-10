@@ -37,6 +37,8 @@ Changde Yishu E-commerce Co., Ltd
 __Online Store Owner__
 `Getting Started...`
 
+Online
+
 - Provide online teaching and assistance in the professional use of SQL, R and Excel for Chinese students.
 
 ## Skills
