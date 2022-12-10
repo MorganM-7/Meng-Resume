@@ -3,7 +3,7 @@ layout: cv
 title: Morgan Meng's Resume
 ---
 # Xiang Meng
-Project designer, Future business analyst
+Project designer, future business analyst
 
 <div id="webaddress">
 <a href="mengmorgan79@gmail.com">mengmorgan79@gmail.com</a>
@@ -25,6 +25,7 @@ __Project Designer__
 `October 2022 - Now`
 
 Changde Yishu E-commerce Co., Ltd
+
 *Remote / Freelance*
 
 - Successfully served 20+ customers, resolved their problems about the application of Excel in the workplace and developed personalized project designs (e.g., Inventory tracking models, financial statements analysis)
