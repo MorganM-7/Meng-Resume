@@ -24,7 +24,8 @@ __Brigham Yong University-Idaho__
 __Project Designer__
 `October 2022 - Now`
 
-Remote / Freelance, *Changde Yishu E-commerce Co., Ltd*
+Changde Yishu E-commerce Co., Ltd
+*Remote / Freelance*
 
 - Successfully served 20+ customers, resolved their problems about the application of Excel in the workplace and developed personalized project designs (e.g., Inventory tracking models, financial statements analysis)
 
