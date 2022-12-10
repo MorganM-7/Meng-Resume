@@ -1,89 +1,62 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Morgan Meng's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Xiang Meng
+Project designer, Future business analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mengmorgan79@gmail.com">mengmorgan79@gmail.com</a>
+| <a href="https://www.linkedin.com/in/morgan-meng-418303219/">My linkedin page</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Yong University-Idaho__
+`January 2021 - now`
 
-- Full academic scholarship with 4.0 GPA
+- Expected to graduate in 2023
+- Bachelor of Business Analytics in Finance
+- GPA: 4.0/4.0
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Work Experience
 
-- 4.0 Major GPA
+__Project Designer__
+`October 2022 - Now`
 
+Remote / Freelance, *Changde Yishu E-commerce Co., Ltd*
 
-## Related Experience
+- Successfully served 20+ customers, resolved their problems about the application of Excel in the workplace and developed personalized project designs (e.g., Inventory tracking models, financial statements analysis)
 
-### Internships
+- Forecasted a company’s financial success in a future period based on assumptions and historical performance data, with the use of financial modeling and VBA
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Utilized Excel, Tableau, Power BI and other dashboard/visualization toolsets for data intelligence and analysis
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Online Store Owner__
+`Getting Started...`
 
-### Data Science Lead
+- Provide online teaching and assistance in the professional use of SQL, R and Excel for Chinese students.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+## Skills
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__Technical__
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+Microsoft Office Suite (Word, PowerPoint, and Excel) / Tableau
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+__Programming Language__
 
-### Data Science Consulting Team
+R / SQL / Python / VBA
 
-`January 2027 - April 2027`
-__Imagine Learning__
+__Language__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+Chinese(mandarin)
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+## Awards
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+__Scholarship__
+
+- Thoamas E. Ricks Grant (2020)
+- BYU-Idaho Grant (2022)
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<!-- ### Footer Last Updated: Dec 2022
